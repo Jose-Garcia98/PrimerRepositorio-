@@ -1,7 +1,7 @@
 package cuentas;
 
 public class Main {
-
+	// Jose Carlos García Sánchez
     public static void main(String[] args) {
     	operativa_cuenta();
     }
